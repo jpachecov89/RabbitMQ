@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rgz0G1cHL809J+OlLzA64uhWQtF/wzjRlomitvYk0fUiLxjRwC4cK73tL0smlGOHy2LT/3pou9EavCjxfHU3Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joel\\Documents\\Visual Studio 2019\\Projects\\RabbitMQ\\Test\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joel\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Joel\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

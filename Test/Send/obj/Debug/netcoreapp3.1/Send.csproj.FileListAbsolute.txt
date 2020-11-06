@@ -1,0 +1,16 @@
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.exe
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.dll
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.dll
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.pdb
+C:\Users\Joel\Documents\Visual Studio 2019\Projects\RabbitMQ\Test\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache
